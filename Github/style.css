@@ -1,21 +1,21 @@
-body{
+body {
     color: white;
-    background-color: rgb(31, 1, 1);
-    margin: 0px;
+    background-color: rgb(184, 156, 213);
+    margin: 7px;
     
 }
 
-header{
+header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228)
+    color: rgb(42, 122, 228);
 }
 
-section{
+section {
     background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
+    padding-bottom: 90px;
+    padding-top: 90px;
     display: flex;
 
-}
+};
