@@ -1,7 +1,7 @@
 body {
     color: white;
-    background-color: rgb(184, 156, 213);
-    margin: 7px;
+    background: black;
+    margin: 0px;
     
 }
 
@@ -14,12 +14,12 @@ header {
 
 section {
     background: rgb(184, 156, 213);
-    padding-bottom: 90px;
-    padding-top: 90px;
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-div{
-    margin-right: 20px;
+.chamada-texto{
+    margin-right: 5%;
 
 }
